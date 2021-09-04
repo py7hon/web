@@ -1,0 +1,15 @@
+permalink: /:title/
+plugins:
+  - jekyll-sitemap
+
+title: iqbalrifai.eu.org
+url: https://iqbalrifai.eu.org
+baseurl: ""
+description: "Personal website of Iqbal Rifai"
+author: Muhammad Iqbal Rifai
+twitter: yukifag
+discord: bal#3530
+facebook: composer.json
+email: yukifag@pm.me
+
+timezone: Asia/Jakarta
