@@ -2,6 +2,7 @@
 layout: post
 title:  "Membuat Privat/Publik IPFS Gateway Sendiri"
 date:   2021-09-08 20:45:00 +0200
+updated: 2021-09-08 21:22:05 +0200
 category: tutorials
 ---
 
@@ -33,12 +34,12 @@ go-ipfs/README.md
 # ./install.sh
 Moved ./ipfs to /usr/local/bin
 ```
-## Tes IPFS versi
+## Tes versi IPFS
 ```terminal
 # ipfs --version
 ipfs version 0.9.1
 ```
-## Initialize IPFS
+## Mulai server IPFS
 ```terminal
 # IPFS_PATH=~/.ipfs ipfs init --profile server
 generating ED25519 keypair...done
