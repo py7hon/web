@@ -9,21 +9,28 @@ category: blogs
 # Membuat RDP Gratis dengan Github Actions
 
 ###### ⚠️ USE AT YOUR OWN RISK ⚠️
+
 Hallo, Saya ingin membagikan tutorial mendapatkan RDP gratis* dengan menggunakan RemoteDesktop dari chrome dan Github Actions.
 
 ## 1. Membuat sebuah repository pada Github
+
 Kamu harus membuat repository dahulu pada Github, di utamakan yang kosong dan tidak ada file/folder.
 
 ## 2. Buatlah sebuah file
+
 Untuk tahap ini kalian bisa menggunakan kode editor apapun yang kalian suka, lalu kalian buat file yang bernama `setup.ps1` dan `timeout.ps1`.
 Berikut adalah contoh kode nya.
+
 1. `setup.ps1`
+
 ```powershell
 Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 & {$P = $env:TEMP + '\chromeremotedesktophost.msi'; Invoke-WebRequest 'https://dl.google.com/edgedl/chrome-remote-desktop/chromeremotedesktophost.msi' -OutFile $P; Start-Process $P -Wait; Remove-Item $P}
 & {$P = $env:TEMP + '\chrome_installer.exe'; Invoke-WebRequest 'https://dl.google.com/chrome/install/latest/chrome_installer.exe' -OutFile $P; Start-Process -FilePath $P -Args '/install' -Verb RunAs -Wait; Remove-Item $P}
 ```
+
 2. `timeout.ps1`
+
 ```powershell
 $i = 360
 do {
@@ -32,10 +39,15 @@ do {
     $i--
 } while ($i -gt 0)
 ```
+
 ## 3. Push ke Github
+
 Jika kalian sudah menjalankan tahap nomor **2** kalian bisa push file tersebut ke repository yang kalian buat tadi pada tahap **1**.
+
 ## 4. Buka Action pada Repository 
+
 Kalau kalian sudah Push file ke repository kalian bisa buka page Actions dan salin kode dibawah ini.
+
 ```yaml
 name: Windows-CRD
 
@@ -64,7 +76,9 @@ jobs:
 ```
 
 ## 5. Buka Website Remote Desktop dan Setup
+
 Jika kalian sudah melakukan tahap **4** lalu buka website RemoteDesktop pada link di bawah dengan akun Google kamu
+
 [https://remotedesktop.google.com/headless](https://remotedesktop.google.com/headless)
 
 dan salin kode pada **Windows (PowerShell)** seperti di gambar bawah ini
