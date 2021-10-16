@@ -21,7 +21,7 @@ Kamu harus membuat repository dahulu pada Github, di utamakan yang kosong dan ti
 Untuk tahap ini kalian bisa menggunakan kode editor apapun yang kalian suka, lalu kalian buat file yang bernama `setup.ps1` dan `timeout.ps1`.
 Berikut adalah contoh kode nya.
 
-1. `setup.ps1`
+- `setup.ps1`
 
 ```powershell
 Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
@@ -29,7 +29,7 @@ Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 & {$P = $env:TEMP + '\chrome_installer.exe'; Invoke-WebRequest 'https://dl.google.com/chrome/install/latest/chrome_installer.exe' -OutFile $P; Start-Process -FilePath $P -Args '/install' -Verb RunAs -Wait; Remove-Item $P}
 ```
 
-2. `timeout.ps1`
+- `timeout.ps1`
 
 ```powershell
 $i = 360
