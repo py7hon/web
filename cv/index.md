@@ -1,0 +1,32 @@
+---
+layout: page
+title: Curriculum Vitae
+updated: 2021-11-06 15:25:00 +0200
+---
+
+# Curriculum Vitae
+
+## Muhammad Iqbal Rifai
+Software Engineer, CyberSecurity Engineer, System Administrator,<br/>
+IT Consultant, and Infrastructure Developer in Bekasi, Indonesia.
+
+### Projects
+- [Uup](https://uup.bugs.today/).<br/>
+Encrypted and Fully Decentralized File Sharing, Using IPFS, Store on Filecoin and Ethereum.
+
+### Work Experience
+- 2019 — 2020 [Junior Software Engineer at PT Pertamina](https://www.pertamina.com/).<br/>
+Jakarta, Indonesia.
+- 2018 — 2019 [Junior Software Engineer at Blibli.com](https://www.blibli.com/).<br/>
+Jakarta, Indonesia.
+
+### Education
+- 2016 — 2018 SMK Teratai Putih Global 1.<br/>
+Bekasi, Indonesia.
+
+### Links
+- Email   [yukifag@pm.me](mailto:yukifag@pm.me).
+- Discord [bal#3530](https://dsc.bio/bal).
+- GitLab  [iqbalrifai](https://gitlab.com/iqbalrifai).
+- Facebook  [snowfag](https://www.facebook.com/snowfag).
+- GitHub  [py7hon](https://github.com/py7hon).
