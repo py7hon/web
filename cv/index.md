@@ -3,8 +3,9 @@ layout: page
 title: Curriculum Vitae
 updated: 2021-11-06 15:25:00 +0200
 ---
-
+<img alt="me" align="left" width="100" height="100" src="https://user-images.githubusercontent.com/29944979/140603404-80c433b8-b979-4649-959c-045721c4af74.jpg"></img> 
 ## Muhammad Iqbal Rifai
+
 Software Engineer, CyberSecurity Engineer, System Administrator,<br/>
 IT Consultant, and Infrastructure Developer in Bekasi, Indonesia.
 
