@@ -1,13 +1,12 @@
-
 ---
 layout: post
 title:  "Membuat IPFS Signalling Server Menggunakan Heroku"
 date:   2021-11-06 16:45:00 +0200
-updated: 2021-11-06 17:22:05 +0200
 category: tutorials
 ---
 
 # ![1636195625](https://user-images.githubusercontent.com/29944979/140606665-1420a897-dd7f-468d-bd47-a0bed99fab22.png)
+
 Sebelum nya kita berkenalan dengan Signaling-Server terlebih dahulu.
 
 **Signaling-Server** adalah atau digunakan di **libp2p** untuk mengizinkan browser dan klien dengan penerusan port terbatas
