@@ -6,7 +6,7 @@ updated: 2021-11-06 15:25:00 +0200
 <img alt="me" align="left" style="margin-right:5px;" width="100" height="100" src="https://user-images.githubusercontent.com/29944979/140603404-80c433b8-b979-4649-959c-045721c4af74.jpg">
 
 ## Muhammad Iqbal Rifai
-<hr>
+<hr align="left" style="width:40%">
 
 Software Engineer, CyberSecurity Engineer, System Administrator,<br/>
 IT Consultant, and Infrastructure Developer in Bekasi, Indonesia.
