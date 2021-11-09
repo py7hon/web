@@ -10,6 +10,6 @@ Dari bersekolah dasar di SDN Jakasampurna 11 Bekasi Jawa Barat sudah menyukai ko
 
 Lahir 30 April 2000, Bekasi, Jawa Barat, Indonesia.
 
-Saya adalah Software Engineer, CyberSecurity Engineer, System Administrator, IT Consultant, dan Infrastructure Developer.
+Saya adalah Software Engineer, CyberSecurity Engineer, System Administrator, IT Consultant, IT Support, dan Infrastructure Developer.
 
 
