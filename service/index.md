@@ -10,9 +10,9 @@ updated: 2021-10-29 13:17:00 +0200
 
 - [KMS Server](https://kms.iqbalrifai.eu.org/) Activating Microsoft software products for FREE without additional software.
 
-- [Nitter](https://nitter.iqbalrifai.eu.org/) Alternative Twitter front-end.
+- ~~[Nitter](https://nitter.iqbalrifai.eu.org/) Alternative Twitter front-end.~~ stoped during copyright claim.
 
-- [Libreddit](https://lr.iqbalrifai.eu.org/) Private front-end and unblock for Reddit.  
+- ~~[Libreddit](https://lr.iqbalrifai.eu.org/) Private front-end and unblock for Reddit.~~ stoped during copyright claim.
 
 - [UFiles](https://ufiles.iqbalrifai.eu.org/) Encrypted and Fully Decentralized File Sharing. Former Uup.
 
