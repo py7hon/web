@@ -570,6 +570,6 @@ Windows 11 Professional
 
 
 ### Server yang tersedia
-- Main   [kms.iqbalrifai.eu.org](kms.iqbalrifai.eu.org).
-- Jepang [kms.jp.iqbalrifai.eu.org](kms.jp.iqbalrifai.eu.org).
-- China  [kms.cn.iqbalrifai.eu.org](kms.cn.iqbalrifai.eu.org).
+- Main   **kms.iqbalrifai.eu.org**.
+- Luxembourg **kms.lux.iqbalrifai.eu.org**.
+- Korea Selatan  **kms.kor.iqbalrifai.eu.org**.
