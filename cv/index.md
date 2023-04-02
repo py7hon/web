@@ -21,11 +21,11 @@ who really likes anything in the world of technology.<br/>
 Born April 30, 2000, Bekasi, West Java, Indonesia. 
 
 ### Projects
-- [Uup](https://uup.bugs.today/).<br/>
+- [UFiles](https://ufiles.eu.org).<br/>
 Encrypted and Fully Decentralized File Sharing, Using IPFS, Store on Filecoin and Ethereum.
 
 ### Work Experience
-- 2022 - present Equipment Control at PT Samudera Indonesia Tbk.<br/>
+- 2022 - 2023 Equipment Control at PT Samudera Indonesia Tbk.<br/>
 - 2020 — 2021 Junior System Administrator at Kubernetes.<br/>
 Wilmington, Los Angeles, CA, USA.<br/>
 Remote Working.
@@ -50,5 +50,5 @@ Bekasi, Indonesia.
 - Email   [yukifag@pm.me](mailto:yukifag@pm.me).
 - Discord [bal#3530](https://dsc.bio/bal).
 - GitLab  [iqbalrifai](https://gitlab.com/iqbalrifai).
-- Facebook  [snowfag](https://www.facebook.com/snowfag).
+- Facebook  [Iqbal Rifai](https://www.facebook.com/config.yaml).
 - GitHub  [py7hon](https://github.com/py7hon).
