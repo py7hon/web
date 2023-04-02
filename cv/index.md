@@ -25,7 +25,7 @@ Born April 30, 2000, Bekasi, West Java, Indonesia.
 Encrypted and Fully Decentralized File Sharing, Using IPFS, Store on Filecoin and Ethereum.
 
 ### Work Experience
-- 2022 - 2023 Equipment Control at PT Samudera Indonesia Tbk.<br/>
+- 2022 — 2023 Equipment Control at PT Samudera Indonesia Tbk.<br/>
 - 2020 — 2021 Junior System Administrator at Kubernetes.<br/>
 Wilmington, Los Angeles, CA, USA.<br/>
 Remote Working.
