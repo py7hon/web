@@ -713,3 +713,4 @@ Lalu ikuti langkah nya yang tertera pada PowerShell.
 - Main   **kms.iqbalrifai.eu.org**.
 - Luxembourg **kms.lux.iqbalrifai.eu.org**.
 - Korea Selatan  **kms.kor.iqbalrifai.eu.org**.
+- Hong Kong **kms.hk.iqbalrifai.eu.org**.
