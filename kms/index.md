@@ -91,15 +91,148 @@ Lalu ikuti langkah nya yang tertera pada PowerShell.
 
 <hr style="width:40%">
 
-<h5 class="ml-3 mt-3">Windows Server 2022</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
+### Serial Number
+
+<details>
+    <summary>Windows Key</summary>
+<table border="1" width="100%" cellspacing="0" cellpadding="1">
 <tbody>
+<tr>
+<td><strong>Windows</strong></td>
+<td><strong>KMS Activation Serial Number</strong></td>
+</tr>
+<tr>
+<td>Windows 10 Home</td>
+<td>TX9XD-98N7V-6WMQ6-BX7FG-H8Q99</td>
+</tr>
+<tr>
+<td>Windows 10/11 Pro</td>
+<td>W269N-WFGWX-YVC9B-4J6C9-T83GX</td>
+</tr>
+<tr>
+<td>Windows 10/11 Pro N</td>
+<td>MH37W-N47XK-V7XM9-C7227-GCQG9</td>
+</tr>
+<tr>
+<td>Windows 10/11 Pro Workstations</td>
+<td>NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J</td>
+</tr>
+<tr>
+<td>Windows 10/11 Pro Workstations N</td>
+<td>9FNHH-K3HBT-3W4TD-6383H-6XYWF</td>
+</tr>
+<tr>
+<td>Windows 10/11 Pro Education</td>
+<td>6TP4R-GNPTD-KYYHQ-7B7DP-J447Y</td>
+</tr>
+<tr>
+<td>Windows 10/11 Pro Education N</td>
+<td>YVWGF-BXNMC-HTQYQ-CPQ99-66QFC</td>
+</tr>
+<tr>
+<td>Windows 10/11 Education</td>
+<td>NW6C2-QMPVW-D7KKK-3GKT6-VCFB2</td>
+</tr>
+<tr>
+<td>Windows 10/11 Education N</td>
+<td>2WH4N-8QGBV-H22JP-CT43Q-MDWWJ</td>
+</tr>
+<tr>
+<td>Windows 10/11 Enterprise</td>
+<td>NPPR9-FWDCX-D2C8J-H872K-2YT43</td>
+</tr>
+<tr>
+<td>Windows 10/11 Enterprise N</td>
+<td>DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4</td>
+</tr>
+<tr>
+<td>Windows 10/11 Enterprise G</td>
+<td>YYVX9-NTFWV-6MDM3-9PT4T-4M68B</td>
+</tr>
+<tr>
+<td>Windows 10/11 Enterprise G N</td>
+<td>44RPN-FTY23-9VTTB-MP9BX-T84FV</td>
+</tr>
+<tr>
+<td>Windows 10 Enterprise LTSC 2019/2021</td>
+<td>M7XTQ-FN8P6-TTKYV-9D4CC-J462D</td>
+</tr>
+<tr>
+<td>Windows 10 Enterprise N LTSC 2019/2021</td>
+<td>92NFX-8DJQP-P6BBQ-THF9C-7CG2H</td>
+</tr>
+<tr>
+<td>Windows 10 Enterprise LTSB 2016</td>
+<td>DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ</td>
+</tr>
+<tr>
+<td>Windows 10 Enterprise N LTSB 2016</td>
+<td>QFFDN-GRT3P-VKWWX-X7T3R-8B639</td>
+</tr>
+<tr>
+<td>Windows 10 Enterprise LTSB 2015</td>
+<td>WNMTR-4C88C-JK8YV-HQ7T2-76DF9</td>
+</tr>
+<tr>
+<td>Windows 10 Enterprise N LTSB 2015</td>
+<td>2F77B-TNFGY-69QQF-B8YKP-D69TJ</td>
+</tr>
+<tr>
+<td>Windows 8.1 Pro</td>
+<td>GCRJD-8NW9H-F2CDX-CCM8D-9D6T9</td>
+</tr>
+<tr>
+<td>Windows 8.1 Pro N</td>
+<td>HMCNV-VVBFX-7HMBH-CTY9B-B4FXY</td>
+</tr>
+<tr>
+<td>Windows 8.1 Enterprise</td>
+<td>MHF9N-XY6XB-WVXMC-BTDCT-MKKG7</td>
+</tr>
+<tr>
+<td>Windows 8.1 Enterprise N</td>
+<td>TT4HM-HN7YT-62K67-RGRQJ-JFFXW</td>
+</tr>
+<tr>
+<td>Windows 8 Pro</td>
+<td>NG4HW-VH26C-733KW-K6F98-J8CK4</td>
+</tr>
+<tr>
+<td>Windows 8 Pro N</td>
+<td>XCVCF-2NXM9-723PB-MHCB7-2RYQQ</td>
+</tr>
+<tr>
+<td>Windows 8 Enterprise</td>
+<td>32JNW-9KQ84-P47T8-D8GGY-CWCK7</td>
+</tr>
+<tr>
+<td>Windows 8 Enterprise N</td>
+<td>JMNMF-RHW7P-DMY6X-RF3DR-X2BQT</td>
+</tr>
+<tr>
+<td>Windows 7 Professional</td>
+<td>FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4</td>
+</tr>
+<tr>
+<td>Windows 7 Professional N</td>
+<td>MRPKT-YTG23-K7D7T-X2JMM-QY7MG</td>
+</tr>
+<tr>
+<td>Windows 7 Professional E</td>
+<td>W82YF-2Q76Y-63HXB-FGJG9-GF7QX</td>
+</tr>
+<tr>
+<td>Windows 7 Enterprise</td>
+<td>33PXH-7Y6KF-2VJC9-XBBR8-HVTHH</td>
+</tr>
+<tr>
+<td>Windows 7 Enterprise N</td>
+<td>YDRBP-3D83W-TY26F-D46B2-XCKRJ</td>
+</tr>
+<tr>
+<td>Windows 7 Enterprise E</td>
+<td>C29WB-22CC8-VJ326-GHFJW-H9DH4</td>
+</tr>
 <tr>
 <td>Windows Server 2022 Datacenter</td>
 <td>WX4NM-KYWYW-QJJR4-XV3QB-6VM33</td>
@@ -108,74 +241,6 @@ Lalu ikuti langkah nya yang tertera pada PowerShell.
 <td>Windows Server 2022 Standard</td>
 <td>VDYBN-27WPP-V4HQT-9VMD4-VMK7H</td>
 </tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows Server Version 20H2, 2004, 1909, 1903, 1809</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows Server Datacenter</td>
-<td>6NMRW-2C8FM-D24W7-TQWMY-CWH2D</td>
-</tr>
-<tr>
-<td>Windows Server Standard</td>
-<td>N2KJX-J94YW-TQVFB-DG9YT-724CC</td>
-</tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows Server Version 1803</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows Server Datacenter</td>
-<td>2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG</td>
-</tr>
-<tr>
-<td>Windows Server Standard</td>
-<td>PTXN8-JFHJM-4WC78-MPCBR-9W4KR</td>
-</tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows Server Version 1709</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows Server Datacenter</td>
-<td>6Y6KB-N82V8-D8CQV-23MJW-BWTG6</td>
-</tr>
-<tr>
-<td>Windows Server Standard</td>
-<td>DPCNP-XQFKJ-BJF7R-FRC8D-GF6G4</td>
-</tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows Server 2019</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td>Windows Server 2019 Datacenter</td>
 <td>WMDGN-G9PQG-XVVXX-R3X43-63DFG</td>
@@ -186,19 +251,8 @@ Lalu ikuti langkah nya yang tertera pada PowerShell.
 </tr>
 <tr>
 <td>Windows Server 2019 Essentials</td>
-<td> WVDHN-86M7X-466 P 6-VHXV7-YY726</td>
+<td>WVDHN-86M7X-466P6-VHXV7-YY726</td>
 </tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows Server 2016</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
 <tr>
 <td>Windows Server 2016 Datacenter</td>
 <td>CB7KF-BWN84-R7R2Y-793K2-8XDDG</td>
@@ -211,205 +265,17 @@ Lalu ikuti langkah nya yang tertera pada PowerShell.
 <td>Windows Server 2016 Essentials</td>
 <td>JCKRF-N37P4-C2D82-9YXRT-4M63B</td>
 </tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3" id="win10core">Windows 10 Core</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Win 10 Core</td>
-<td>TX9XD-98N7V-6WMQ6-BX7FG-H8Q99</td>
-</tr>
-<tr>
-<td>Win 10 CoreN</td>
-<td>3KHY7-WNT83-DGQKR-F7HPR-844BM</td>
-</tr>
-<tr>
-<td>Win 10 CoreSingleLanguage</td>
-<td>7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH</td>
-</tr>
-<tr>
-<td>Win 10 CoreCountrySpecific</td>
-<td>PVMJN-6DFY6-9CCP6-7BKTT-D3WVR</td>
-</tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows 10 , Windows 11</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows 10 Professional</br>
-Windows 11 Professional
-</td>
-<td>W269N-WFGWX-YVC9B-4J6C9-T83GX</td>
-</tr>
-<tr>
-<td>Windows 10 Professional N
-</br>Windows 11 Professional N</td>
-<td>MH37W-N47XK-V7XM9-C7227-GCQG9</td>
-</tr>
-<tr>
-<td>Windows 10 Pro for Workstations
-</br>Windows 11 Pro for Workstations</td>
-<td>NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J</td>
-</tr>
-<tr>
-<td>Windows 10 Pro for Workstations N
-</br>Windows 11 Pro for Workstations N</td>
-<td>9FNHH-K3HBT-3W4TD-6383H-6XYWF</td>
-</tr>
-<tr>
-<td>Windows 10 Pro Education
-</br>Windows 11 Pro Education</td>
-<td>6TP4R-GNPTD-KYYHQ-7B7DP-J447Y</td>
-</tr>
-<tr>
-<td>Windows 10 Pro Education N
-</br>Windows 11 Pro Education N</td>
-<td>YVWGF-BXNMC-HTQYQ-CPQ99-66QFC</td>
-</tr>
-<tr>
-<td>Windows 10 Education
-</br>Windows 11 Education</td>
-<td>NW6C2-QMPVW-D7KKK-3GKT6-VCFB2</td>
-</tr>
-<tr>
-<td>Windows 10 Education N
-</br>Windows 11 Education N</td>
-<td>2WH4N-8QGBV-H22JP-CT43Q-MDWWJ</td>
-</tr>
-<tr>
-<td>Windows 10 Enterprise
-</br>Windows 11 Enterprise</td>
-<td>NPPR9-FWDCX-D2C8J-H872K-2YT43</td>
-</tr>
-<tr>
-<td>Windows 10 Enterprise N
-</br>Windows 11 Enterprise N</td>
-<td>DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4</td>
-</tr>
-<tr>
-<td>Windows 10 Enterprise G
-</br>Windows 11 Enterprise G</td>
-<td>YYVX9-NTFWV-6MDM3-9PT4T-4M68B</td>
-</tr>
-<tr>
-<td>Windows 10 Enterprise G N
-</br>Windows 11 Enterprise G N</td>
-<td>44RPN-FTY23-9VTTB-MP9BX-T84FV</td>
-</tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows 10（LTSC/LTSB Version）</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows 10 Enterprise 2015 LTSB</td>
-<td>WNMTR-4C88C-JK8YV-HQ7T2-76DF9</td>
-</tr>
-<tr>
-<td>Windows 10 Enterprise 2015 LTSB N</td>
-<td>2F77B-TNFGY-69QQF-B8YKP-D69TJ</td>
-</tr>
-<tr>
-<td>Windows 10 Enterprise 2016 LTSB</td>
-<td>DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ</td>
-</tr>
-<tr>
-<td>Windows 10 Enterprise N LTSB 2016</td>
-<td>QFFDN-GRT3P-VKWWX-X7T3R-8B639</td>
-</tr>
-<tr>
-<td>Windows 10 Enterprise LTSC 2019</td>
-<td>M7XTQ-FN8P6-TTKYV-9D4CC-J462D</td>
-</tr>
-<tr>
-<td>Windows 10 Enterprise N LTSC 2019</td>
-<td>92NFX-8DJQP-P6BBQ-THF9C-7CG2H</td>
-</tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows Server 2012 R2 Windows 8.1</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows 8.1 Professional</td>
-<td>GCRJD-8NW9H-F2CDX-CCM8D-9D6T9</td>
-</tr>
-<tr>
-<td>Windows 8.1 Professional N</td>
-<td>HMCNV-VVBFX-7HMBH-CTY9B-B4FXY</td>
-</tr>
-<tr>
-<td>Windows 8.1 Enterprise</td>
-<td>MHF9N-XY6XB-WVXMC-BTDCT-MKKG7</td>
-</tr>
-<tr>
-<td>Windows 8.1 Enterprise N</td>
-<td>TT4HM-HN7YT-62K67-RGRQJ-JFFXW</td>
-</tr>
-<tr>
-<td>Windows Server 2012 R2 Server Standard</td>
-<td>D2N9P-3P6X9-2R39C-7RTCD-MDVJX</td>
-</tr>
 <tr>
 <td>Windows Server 2012 R2 Datacenter</td>
 <td>W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9</td>
 </tr>
 <tr>
+<td>Windows Server 2012 R2 Standard</td>
+<td>D2N9P-3P6X9-2R39C-7RTCD-MDVJX</td>
+</tr>
+<tr>
 <td>Windows Server 2012 R2 Essentials</td>
 <td>KNC87-3J2TX-XB4WP-VCPJV-M4FWM</td>
-</tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows Server 2012 Windows 8</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows 8 Professional</td>
-<td>NG4HW-VH26C-733KW-K6F98-J8CK4</td>
-</tr>
-<tr>
-<td>Windows 8 Professional N</td>
-<td>XCVCF-2NXM9-723PB-MHCB7-2RYQQ</td>
-</tr>
-<tr>
-<td>Windows 8 Enterprise</td>
-<td>32JNW-9KQ84-P47T8-D8GGY-CWCK7</td>
-</tr>
-<tr>
-<td>Windows 8 Enterprise N</td>
-<td>JMNMF-RHW7P-DMY6X-RF3DR-X2BQT</td>
 </tr>
 <tr>
 <td>Windows Server 2012</td>
@@ -428,7 +294,7 @@ Windows 11 Professional
 <td>4K36P-JN4VD-GDC6V-KDT89-DYFKP</td>
 </tr>
 <tr>
-<td>Windows Server 2012 Server Standard</td>
+<td>Windows Server 2012 Standard</td>
 <td>XC9B7-NBPP2-83J2H-RHMBY-92BT4</td>
 </tr>
 <tr>
@@ -442,41 +308,6 @@ Windows 11 Professional
 <tr>
 <td>Windows Server 2012 Datacenter</td>
 <td>48HP8-DN98B-MYWDG-T2DCC-8W83P</td>
-</tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows 7 and Windows Server 2008 R2</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows 7 Professional</td>
-<td>FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4</td>
-</tr>
-<tr>
-<td>Windows 7 Professional N</td>
-<td>MRPKT-YTG23-K7D7T-X2JMM-QY7MG</td>
-</tr>
-<tr>
-<td>Windows 7 Professional E</td>
-<td>W82YF-2Q76Y-63HXB-FGJG9-GF7QX</td>
-</tr>
-<tr>
-<td>Windows 7 Enterprise</td>
-<td> 33PXH-7Y6KF-2VJC9-XBBR8-HVTHH</td>
-</tr>
-<tr>
-<td>Windows 7 Enterprise N</td>
-<td>YDRBP-3D83W-TY26F-D46B2-XCKRJ</td>
-</tr>
-<tr>
-<td>Windows 7 Enterprise E</td>
-<td>C29WB-22CC8-VJ326-GHFJW-H9DH4</td>
 </tr>
 <tr>
 <td>Windows Server 2008 R2 Web</td>
@@ -502,40 +333,13 @@ Windows 11 Professional
 <td>Windows Server 2008 R2 for Itanium-based Systems</td>
 <td>GT63C-RJFQ3-4GMB6-BRFB9-CB83V</td>
 </tr>
-</tbody>
-</table>
-<h5 class="ml-3 mt-3">Windows Vista and Windows Server 2008</h5>
-<table class="table table-hover ">
-<thead>
-<tr>
-<th scope="col">Operating System</th>
-<th scope="col">KMS Activation Serial Number</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows Vista Business</td>
-<td>YFKBB-PQJJV-G996G-VWGXY-2V3X8</td>
-</tr>
-<tr>
-<td>Windows Vista Business N</td>
-<td>HMBQG-8H2RH-C77VX-27R82-VMQBT</td>
-</tr>
-<tr>
-<td>Windows Vista Enterprise</td>
-<td>VKK3X-68KWM-X2YGT-QR4M6-4BWMV</td>
-</tr>
-<tr>
-<td>Windows Vista Enterprise N</td>
-<td>VTC42-BM838-43QHV-84HX6-XJXKV</td>
-</tr>
 <tr>
 <td>Windows Web Server 2008</td>
 <td>WYR28-R7TFJ-3X2YQ-YCY4H-M249D</td>
 </tr>
 <tr>
 <td>Windows Server 2008 Standard</td>
-<td>M24T-X9RMF-VWXK6-X8JC9-BFGM2</td>
+<td>TM24T-X9RMF-VWXK6-X8JC9-BFGM2</td>
 </tr>
 <tr>
 <td>Windows Server 2008 Standard without Hyper-V</td>
@@ -565,9 +369,345 @@ Windows 11 Professional
 <td>Windows Server 2008 for Itanium-Based Systems</td>
 <td>4DWFP-JF3DJ-B7DTH-78FJB-PDRHK</td>
 </tr>
+<tr>
+<td>Windows Server Datacenter, version 20H2/2004/1909/1903/1809</td>
+<td>6NMRW-2C8FM-D24W7-TQWMY-CWH2D</td>
+</tr>
+<tr>
+<td>Windows Server Standard, version 20H2/2004/1909/1903/1809</td>
+<td>N2KJX-J94YW-TQVFB-DG9YT-724CC</td>
+</tr>
+<tr>
+<td>Windows Server Datacenter, version 1803</td>
+<td>2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG</td>
+</tr>
+<tr>
+<td>Windows Server Standard, version 1803</td>
+<td>PTXN8-JFHJM-4WC78-MPCBR-9W4KR</td>
+</tr>
+<tr>
+<td>Windows Server Datacenter, version 1709</td>
+<td>6Y6KB-N82V8-D8CQV-23MJW-BWTG6</td>
+</tr>
+<tr>
+<td>Windows Server Standard, version 1709</td>
+<td>DPCNP-XQFKJ-BJF7R-FRC8D-GF6G4</td>
+</tr>
 </tbody>
 </table>
+</details>
 
+<details>
+    <summary>Office Key</summary>
+<table border="1" width="100%" cellspacing="0" cellpadding="1">
+<tbody>
+<tr>
+<td><strong>Office</strong></td>
+<td><strong>KMS Activation Serial Number</strong></td>
+</tr>
+<tr>
+<td>Office LTSC Professional Plus 2021</td>
+<td>FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH</td>
+</tr>
+<tr>
+<td>Office LTSC Standard 2021</td>
+<td>KDX7X-BNVR8-TXXGX-4Q7Y8-78VT3</td>
+</tr>
+<tr>
+<td>Project Professional 2021</td>
+<td>FTNWT-C6WBT-8HMGF-K9PRX-QV9H8</td>
+</tr>
+<tr>
+<td>Project Standard 2021</td>
+<td>J2JDC-NJCYY-9RGQ4-YXWMH-T3D4T</td>
+</tr>
+<tr>
+<td>Visio LTSC Professional 2021</td>
+<td>KNH8D-FGHT4-T8RK3-CTDYJ-K2HT4</td>
+</tr>
+<tr>
+<td>Visio LTSC Standard 2021</td>
+<td>MJVNY-BYWPY-CWV6J-2RKRT-4M8QG</td>
+</tr>
+<tr>
+<td>Access LTSC 2021</td>
+<td>WM8YG-YNGDD-4JHDC-PG3F4-FC4T4</td>
+</tr>
+<tr>
+<td>Excel LTSC 2021</td>
+<td>NWG3X-87C9K-TC7YY-BC2G7-G6RVC</td>
+</tr>
+<tr>
+<td>Outlook LTSC 2021</td>
+<td>C9FM6-3N72F-HFJXB-TM3V9-T86R9</td>
+</tr>
+<tr>
+<td>PowerPoint LTSC 2021</td>
+<td>TY7XF-NFRBR-KJ44C-G83KF-GX27K</td>
+</tr>
+<tr>
+<td>Publisher LTSC 2021</td>
+<td>2MW9D-N4BXM-9VBPG-Q7W6M-KFBGQ</td>
+</tr>
+<tr>
+<td>Skype for Business LTSC 2021</td>
+<td>HWCXN-K3WBT-WJBKY-R8BD9-XK29P</td>
+</tr>
+<tr>
+<td>Word LTSC 2021</td>
+<td>TN8H9-M34D3-Y64V9-TR72V-X79KV</td>
+</tr>
+<tr>
+<td>Office Professional Plus 2019</td>
+<td>NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP</td>
+</tr>
+<tr>
+<td>Office Standard 2019</td>
+<td>6NWWJ-YQWMR-QKGCB-6TMB3-9D9HK</td>
+</tr>
+<tr>
+<td>Project Professional 2019</td>
+<td>B4NPR-3FKK7-T2MBV-FRQ4W-PKD2B</td>
+</tr>
+<tr>
+<td>Project Standard 2019</td>
+<td>C4F7P-NCP8C-6CQPT-MQHV9-JXD2M</td>
+</tr>
+<tr>
+<td>Visio Professional 2019</td>
+<td>9BGNQ-K37YR-RQHF2-38RQ3-7VCBB</td>
+</tr>
+<tr>
+<td>Visio Standard 2019</td>
+<td>7TQNQ-K3YQQ-3PFH7-CCPPM-X4VQ2</td>
+</tr>
+<tr>
+<td>Access 2019</td>
+<td>9N9PT-27V4Y-VJ2PD-YXFMF-YTFQT</td>
+</tr>
+<tr>
+<td>Excel 2019</td>
+<td>TMJWT-YYNMB-3BKTF-644FC-RVXBD</td>
+</tr>
+<tr>
+<td>Outlook 2019</td>
+<td>7HD7K-N4PVK-BHBCQ-YWQRW-XW4VK</td>
+</tr>
+<tr>
+<td>PowerPoint 2019</td>
+<td>RRNCX-C64HY-W2MM7-MCH9G-TJHMQ</td>
+</tr>
+<tr>
+<td>Publisher 2019</td>
+<td>G2KWX-3NW6P-PY93R-JXK2T-C9Y9V</td>
+</tr>
+<tr>
+<td>Skype for Business 2019</td>
+<td>NCJ33-JHBBY-HTK98-MYCV8-HMKHJ</td>
+</tr>
+<tr>
+<td>Word 2019</td>
+<td>PBX3G-NWMT6-Q7XBW-PYJGG-WXD33</td>
+</tr>
+<tr>
+<td>Office Professional Plus 2016</td>
+<td>XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99</td>
+</tr>
+<tr>
+<td>Office Mondo 2016</td>
+<td>HFTND-W9MK4-8B7MJ-B6C4G-XQBR2</td>
+</tr>
+<tr>
+<td>Office Standard 2016</td>
+<td>JNRGM-WHDWX-FJJG3-K47QV-DRTFM</td>
+</tr>
+<tr>
+<td>Project Professional 2016</td>
+<td>YG9NW-3K39V-2T3HJ-93F3Q-G83KT</td>
+</tr>
+<tr>
+<td>Project Standard 2016</td>
+<td>GNFHQ-F6YQM-KQDGJ-327XX-KQBVC</td>
+</tr>
+<tr>
+<td>Visio Professional 2016</td>
+<td>PD3PC-RHNGV-FXJ29-8JK7D-RJRJK</td>
+</tr>
+<tr>
+<td>Visio Standard 2016</td>
+<td>7WHWN-4T7MP-G96JF-G33KR-W8GF4</td>
+</tr>
+<tr>
+<td>Access 2016</td>
+<td>GNH9Y-D2J4T-FJHGG-QRVH7-QPFDW</td>
+</tr>
+<tr>
+<td>Excel 2016</td>
+<td>9C2PK-NWTVB-JMPW8-BFT28-7FTBF</td>
+</tr>
+<tr>
+<td>OneNote 2016</td>
+<td>DR92N-9HTF2-97XKM-XW2WJ-XW3J6</td>
+</tr>
+<tr>
+<td>Outlook 2016</td>
+<td>R69KK-NTPKF-7M3Q4-QYBHW-6MT9B</td>
+</tr>
+<tr>
+<td>PowerPoint 2016</td>
+<td>J7MQP-HNJ4Y-WJ7YM-PFYGF-BY6C6</td>
+</tr>
+<tr>
+<td>Publisher 2016</td>
+<td>F47MM-N3XJP-TQXJ9-BP99D-8K837</td>
+</tr>
+<tr>
+<td>Skype for Business 2016</td>
+<td>869NQ-FJ69K-466HW-QYCP2-DDBV6</td>
+</tr>
+<tr>
+<td>Word 2016</td>
+<td>WXY84-JN2Q9-RBCCQ-3Q3J3-3PFJ6</td>
+</tr>
+<tr>
+<td>Office Professional Plus 2013</td>
+<td>YC7DK-G2NP3-2QQC3-J6H88-GVGXT</td>
+</tr>
+<tr>
+<td>Office Mondo 2013</td>
+<td>42QTK-RN8M7-J3C4G-BBGYM-88CYV</td>
+</tr>
+<tr>
+<td>Office Standard 2013</td>
+<td>KBKQT-2NMXY-JJWGP-M62JB-92CD4</td>
+</tr>
+<tr>
+<td>Project Professional 2013</td>
+<td>FN8TT-7WMH6-2D4X9-M337T-2342K</td>
+</tr>
+<tr>
+<td>Project Standard 2013</td>
+<td>6NTH3-CW976-3G3Y2-JK3TX-8QHTT</td>
+</tr>
+<tr>
+<td>Visio Professional 2013</td>
+<td>C2FG9-N6J68-H8BTJ-BW3QX-RM3B3</td>
+</tr>
+<tr>
+<td>Visio Standard 2013</td>
+<td>J484Y-4NKBF-W2HMG-DBMJC-PGWR7</td>
+</tr>
+<tr>
+<td>Access 2013</td>
+<td>NG2JY-H4JBT-HQXYP-78QH9-4JM2D</td>
+</tr>
+<tr>
+<td>Excel 2013</td>
+<td>VGPNG-Y7HQW-9RHP7-TKPV3-BG7GB</td>
+</tr>
+<tr>
+<td>InfoPath 2013</td>
+<td>DKT8B-N7VXH-D963P-Q4PHY-F8894</td>
+</tr>
+<tr>
+<td>Lync 2013</td>
+<td>2MG3G-3BNTT-3MFW9-KDQW3-TCK7R</td>
+</tr>
+<tr>
+<td>OneNote 2013</td>
+<td>TGN6P-8MMBC-37P2F-XHXXK-P34VW</td>
+</tr>
+<tr>
+<td>Outlook 2013</td>
+<td>QPN8Q-BJBTJ-334K3-93TGY-2PMBT</td>
+</tr>
+<tr>
+<td>PowerPoint 2013</td>
+<td>4NT99-8RJFH-Q2VDH-KYG2C-4RD4F</td>
+</tr>
+<tr>
+<td>Publisher 2013</td>
+<td>PN2WF-29XG2-T9HJ7-JQPJR-FCXK4</td>
+</tr>
+<tr>
+<td>Word 2013</td>
+<td>6Q7VD-NX8JD-WJ2VH-88V73-4GBJ7</td>
+</tr>
+<tr>
+<td>Office Professional Plus 2010</td>
+<td>VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB</td>
+</tr>
+<tr>
+<td>Office Mondo 2010</td>
+<td>YBJTT-JG6MD-V9Q7P-DBKXJ-38W9R</td>
+</tr>
+<tr>
+<td>Office Standard 2010</td>
+<td>V7QKV-4XVVR-XYV4D-F7DFM-8R6BM</td>
+</tr>
+<tr>
+<td>Office SmallBusBasics 2010</td>
+<td>D6QFG-VBYP2-XQHM7-J97RH-VVRCK</td>
+</tr>
+<tr>
+<td>Project Professional 2010</td>
+<td>YGX6F-PGV49-PGW3J-9BTGG-VHKC6</td>
+</tr>
+<tr>
+<td>Project Standard 2010</td>
+<td>4HP3K-88W3F-W2K3D-6677X-F9PGB</td>
+</tr>
+<tr>
+<td>Visio Premium 2010</td>
+<td>D9DWC-HPYVV-JGF4P-BTWQB-WX8BJ</td>
+</tr>
+<tr>
+<td>Visio Professional 2010</td>
+<td>7MCW8-VRQVK-G677T-PDJCM-Q8TCP</td>
+</tr>
+<tr>
+<td>Visio Standard 2010</td>
+<td>767HD-QGMWX-8QTDB-9G3R2-KHFGJ</td>
+</tr>
+<tr>
+<td>Access 2010</td>
+<td>V7Y44-9T38C-R2VJK-666HK-T7DDX</td>
+</tr>
+<tr>
+<td>Excel 2010</td>
+<td>H62QG-HXVKF-PP4HP-66KMR-CW9BM</td>
+</tr>
+<tr>
+<td>Groove 2010</td>
+<td>QYYW6-QP4CB-MBV6G-HYMCJ-4T3J4</td>
+</tr>
+<tr>
+<td>InfoPath 2010</td>
+<td>K96W8-67RPQ-62T9Y-J8FQJ-BT37T</td>
+</tr>
+<tr>
+<td>OneNote 2010</td>
+<td>Q4Y4M-RHWJM-PY37F-MTKWH-D3XHX</td>
+</tr>
+<tr>
+<td>Outlook 2010</td>
+<td>7YDC2-CWM8M-RRTJC-8MDVC-X3DWQ</td>
+</tr>
+<tr>
+<td>PowerPoint 2010</td>
+<td>RC8FX-88JRY-3PF7C-X8P67-P4VTT</td>
+</tr>
+<tr>
+<td>Publisher 2010</td>
+<td>BFK7F-9MYHM-V68C7-DRQ66-83YTP</td>
+</tr>
+<tr>
+<td>Word 2010</td>
+<td>HVHB3-C6FV7-KQX9W-YQG79-CRY7T</td>
+</tr>
+</tbody>
+</table>
+</details>
 
 ### Server yang tersedia
 - Main   **kms.iqbalrifai.eu.org**.
