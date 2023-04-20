@@ -11,7 +11,8 @@ Anda dapat menghubungi saya melalui…
 - Follow saya di Twitter [@{{ site.twitter }}][twitter].
 - Berteman dengan saya di Facebook [{{ site.facebook }}][facebook].
 
-![Discord](https://static.iqbalrifai.eu.org/img/discord.png)
+[![Discord](https://static.iqbalrifai.eu.org/img/discord.png)](https://discord.com/users/465114334796709888)
+
 
 [email]: mailto:{{ site.email }}
 [twitter]: https://twitter.com/{{ site.twitter }}
