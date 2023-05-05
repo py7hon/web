@@ -8,7 +8,7 @@ updated: 2021-11-06 15:25:00 +0200
 ## Muhammad Iqbal Rifai
 <hr align="left" style="width:40%">
 
-Software Engineer, CyberSecurity Engineer, System Administrator,<br/>
+DJ, Software Engineer, CyberSecurity Engineer, System Administrator,<br/>
 IT Consultant, IT Support, and Infrastructure Developer in Bekasi, Indonesia.
 
 <br/>
