@@ -1,7 +1,7 @@
 ---
 layout: page
 title: service
-updated: 2023-04-2 05:07:00
+updated: 2023-11-28 17:08:00
 ---
 
 ## Public Service
@@ -11,6 +11,10 @@ updated: 2023-04-2 05:07:00
 - [KMS Server](/kms) Activating Microsoft software products for FREE without additional software.
 
 - [UFiles](https://ufiles.eu.org/) Encrypted and Fully Decentralized File Sharing. Former Uup.
+
+- [Uup](https://upload.iqbalrifai.eu.org/) Encrypted and Fully Decentralized File Sharing.
+
+- [X:Uup](https://xuup.iqbalrifai.eu.org/) Free Private File Storage Up to 10TB.
 
 - [Public Repository](https://repository.eu.org/~iqbalrifai/) Public Linux and Random Repository.
 
