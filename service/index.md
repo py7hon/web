@@ -1,7 +1,7 @@
 ---
 layout: page
 title: service
-updated: 2023-11-28 17:08:00
+updated: 2023-11-29 13:32:00
 ---
 
 ## Public Service
@@ -15,6 +15,8 @@ updated: 2023-11-28 17:08:00
 - [Uup](https://upload.iqbalrifai.eu.org/) Encrypted and Fully Decentralized File Sharing.
 
 - [X:Uup](https://xuup.iqbalrifai.eu.org/) Free Private File Storage Up to 10TB.
+
+- [Wikipedia](https://wikipedia.iqbalrifai.eu.org/) Wikipedia with Awesome Style.
 
 - [Public Repository](https://repository.eu.org/~iqbalrifai/) Public Linux and Random Repository.
 
