@@ -8,6 +8,8 @@ updated: 2023-12-06 12:26:00
 
 - [Piped](https://piped.iqbalrifai.eu.org/) Youtube Alternative Frontend Without Ads, Built in Sponsorblock, and Indonesian Server.
 
+- [Hyperpipe](https://hp.iqbalrifai.eu.org/) Youtube Music Alternative Frontend Without Ads.
+
 - Public Gateway IPFS Come with 10 cluster from any countries [IPFS](https://ipfs.iqbalrifai.eu.org/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect).
 
 - [KMS Server](/kms) Activating Microsoft software products for FREE without additional software.
