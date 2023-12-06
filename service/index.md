@@ -1,12 +1,12 @@
 ---
 layout: page
 title: service
-updated: 2023-12-05 23:05:00
+updated: 2023-12-06 12:26:00
 ---
 
 ## Public Service
 
-- [Piped](https://piped.iqbalrifai.net/) Youtube Alternative Frontend Without Ads, Built in Sponsorblock, and Indonesian Server.
+- [Piped](https://piped.iqbalrifai.eu.org/) Youtube Alternative Frontend Without Ads, Built in Sponsorblock, and Indonesian Server.
 
 - Public Gateway IPFS Come with 10 cluster from any countries [IPFS](https://ipfs.iqbalrifai.eu.org/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect).
 
