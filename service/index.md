@@ -1,7 +1,7 @@
 ---
 layout: page
 title: service
-updated: 2023-12-06 12:26:00
+updated: 2023-12-07 11:38:00
 ---
 
 ## Public Service
@@ -9,6 +9,8 @@ updated: 2023-12-06 12:26:00
 - [Piped](https://piped.iqbalrifai.eu.org/) Youtube Alternative Frontend Without Ads, Built in Sponsorblock, and Indonesian Server.
 
 - [Hyperpipe](https://hp.iqbalrifai.eu.org/) Youtube Music Alternative Frontend Without Ads.
+
+- [Freexiv](https://freexiv.iqbalrifai.eu.org/) Pixiv Alternative Frontend With Proxy.
 
 - Public Gateway IPFS Come with 10 cluster from any countries [IPFS](https://ipfs.iqbalrifai.eu.org/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect).
 
