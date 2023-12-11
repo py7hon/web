@@ -1,7 +1,7 @@
 ---
 layout: page
 title: service
-updated: 2023-12-07 11:38:00
+updated: 2023-12-11 17:00:00
 ---
 
 ## Public Service
@@ -9,6 +9,8 @@ updated: 2023-12-07 11:38:00
 - [Piped](https://piped.iqbalrifai.eu.org/) Youtube Alternative Frontend Without Ads, Built in Sponsorblock, and Indonesian Server.
 
 - [Hyperpipe](https://hp.iqbalrifai.eu.org/) Youtube Music Alternative Frontend Without Ads.
+
+- [Beatbump](https://bp.iqbalrifai.eu.org/) Youtube Music Alternative Frontend like Hyperpipe.
 
 - [Freexiv](https://freexiv.iqbalrifai.eu.org/) Pixiv Alternative Frontend With Proxy.
 
