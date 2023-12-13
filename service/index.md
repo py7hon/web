@@ -14,6 +14,8 @@ updated: 2023-12-11 17:00:00
 
 - [Freexiv](https://freexiv.iqbalrifai.eu.org/) Pixiv Alternative Frontend With Proxy.
 
+- [ProxiTox](https://tt.iqbalrifai.eu.org/) Tiktok Alternative Frontend Privacy Focus.
+
 - Public Gateway IPFS Come with 10 cluster from any countries [IPFS](https://ipfs.iqbalrifai.eu.org/ipfs/bafybeifx7yeb55armcsxwwitkymga5xf53dxiarykms3ygqic223w5sk3m#x-ipfs-companion-no-redirect).
 
 - [KMS Server](/kms) Activating Microsoft software products for FREE without additional software.
