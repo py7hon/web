@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Membuat sendiri code server"
-date:   2023-12-23 20:29:00 +0200
+date:   2023-12-23 20:29:00
 category: tutorials
 ---
 
